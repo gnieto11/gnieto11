@@ -7,8 +7,8 @@
 Skills: 
 
 [![Javascript Follow](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Typescript Follow](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![vuejs Follow](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
+[![Typescript Follow](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Nodejs Follow](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 
 [![Expressjs Follow](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=yellow)]()
