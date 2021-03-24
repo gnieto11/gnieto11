@@ -23,3 +23,6 @@ Skills 😀:
 
 [![heroku Follow](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 [![netlify Follow](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalonietot&theme=blue-green)
+
